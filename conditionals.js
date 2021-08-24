@@ -1,8 +1,6 @@
 const raining = true;
 const cold = false;
 
-
-
 if (cold){
     console.log("Make sure you pick out a scarf!")
 } else {
