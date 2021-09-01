@@ -7,7 +7,7 @@ function range (start, end, step){
 // We have two conditions that will return the evenNo variable = [] empty array.
     if ((start > end) || (step <= 0)){           
 
-        return evenNo;
+     return evenNo;
     }
 // Using for loop to check every element in the array between start & end number.
 // The start no will increase by step no every time the loop round until reach the end no.
